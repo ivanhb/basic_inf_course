@@ -37,7 +37,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo: [PDF](__)
    <hr />
 
-4. [21/03/24] Algoritmi e computabilità
+4. [20/03/24] Algoritmi e computabilità
    * slide: [Google Slides](__)
    * capitolo: [PDF](__)
    <hr />
@@ -52,22 +52,22 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo: [PDF](__)
    <hr />
 
-7. [04/04/24] Cosa succede quando si clicca un link: I protocolli di comunicazione
+7. [08/04/24] Cosa succede quando si clicca un link: I protocolli di comunicazione
    * slide: [Google Slides](__)
    * capitolo: [PDF](__)
    <hr />
 
-8. [08/04/24] Cosa succede quando si clicca un link: Internet
+8. [09/04/24] Cosa succede quando si clicca un link: Internet
    * slide: [Google Slides](__)
    * capitolo: [PDF](__)
    <hr />
 
-9. [09/04/24] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
+9. [10/04/24] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
    * slide: [Google Slides](__)
    * capitolo: [PDF](__)
    <hr />
 
-10. [11/04/24] Cosa succede quando si clicca un link: Le pagine web
+10. [15/04/24] Cosa succede quando si clicca un link: Le pagine web
     * slide: [Google Slides](__)
     * capitolo: [PDF](__)
     * materiale:
@@ -75,7 +75,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
       * [Esempio](__) di pagina HTML
     <hr />
 
-11. [15/04/24] Wrap-up
+11. [16/04/24] Wrap-up
     <hr />
 
 
@@ -85,13 +85,13 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
   <tr><td>18/03/24</td><td>11:00-13:00</td><td>Introduzione al corso</td></tr>
   <tr><td>18/03/24</td><td>11:00-13:00</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
   <tr><td>19/03/24</td><td>11:00-13:00</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
-  <tr><td>21/03/24</td><td>11:00-13:00</td><td>Algoritmi e computabilità</td></tr>
+  <tr><td>20/03/24</td><td>11:00-13:00</td><td>Algoritmi e computabilità</td></tr>
   <tr><td>25/03/24</td><td>11:00-13:00</td><td>Linguaggi di programmazione</td></tr>
   <tr><td>26/03/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td></tr>
-  <tr><td>04/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td></tr>
-  <tr><td>08/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Internet</td></tr>
-  <tr><td>09/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
-  <tr><td>11/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
-  <tr><td>15/04/24</td><td>11:00-13:00</td><td>Wrap-up</td></tr>
+  <tr><td>08/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td></tr>
+  <tr><td>09/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Internet</td></tr>
+  <tr><td>10/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
+  <tr><td>15/04/24</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
+  <tr><td>16/04/24</td><td>11:00-13:00</td><td>Wrap-up</td></tr>
 </table>
     
