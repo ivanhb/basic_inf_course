@@ -23,51 +23,51 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. [18/03/24] Introduzione al corso
-   * slide: TBD
+   * slide: TBA
    <hr />
 
 2. [18/03/24] Le tecnologie informatiche nelle scienze umane
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/09.pdf)
     <hr />
 
 3. [19/03/24] Computer, pensiero computazionale e strutture dati
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/01.pdf)
    <hr />
 
 4. [20/03/24] Algoritmi e computabilità
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/02.pdf)
    <hr />
 
 5. [25/03/24] Linguaggi di programmazione
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/03.pdf)
    <hr />
 
 6. [08/04/24] Cosa succede quando si clicca un link: Il World Wide Web
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/04.pdf)
    <hr />
 
 7. [09/04/24] Cosa succede quando si clicca un link: I protocolli di comunicazione
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/05.pdf)
    <hr />
 
 8. [10/04/24] Cosa succede quando si clicca un link: Internet
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/06.pdf)
    <hr />
 
 9. [15/04/24] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
-   * slide: TBD
+   * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/07.pdf)
    <hr />
 
 10. [16/04/24] Cosa succede quando si clicca un link: Le pagine web
-    * slide: TBD
+    * slide: TBA
     * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/08.pdf)
     <hr />
 
