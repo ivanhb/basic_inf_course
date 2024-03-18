@@ -23,11 +23,11 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. [18/03/24] Introduzione al corso
-   * slide: TBA
+   * slide: [PDF](slides/00_introduzione.pdf)
    <hr />
 
 2. [18/03/24] Le tecnologie informatiche nelle scienze umane
-   * slide: TBA
+   * slide: [PDF](slides/01_hum_tech.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/09.pdf)
     <hr />
 
