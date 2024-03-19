@@ -37,7 +37,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    <hr />
 
 4. [20/03/24] Algoritmi e computabilità
-   * slide: TBA
+   * slide: [PDF](slides/03_algorithms.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/02.pdf)
    <hr />
 
