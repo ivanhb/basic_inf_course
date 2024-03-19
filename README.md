@@ -32,7 +32,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
     <hr />
 
 3. [19/03/24] Computer, pensiero computazionale e strutture dati
-   * slide: TBA
+   * slide: [PDF](slides/02_comp_intro.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/01.pdf)
    <hr />
 
