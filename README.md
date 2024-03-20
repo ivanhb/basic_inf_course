@@ -36,12 +36,14 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/01.pdf)
    <hr />
 
-4. [20/03/24] Algoritmi e computabilità
+4. ~~\[20/03/24\] Algoritmi e computabilità~~
+
+4. [25/03/24] Algoritmi e computabilità
    * slide: [PDF](slides/03_algorithms.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/02.pdf)
    <hr />
 
-5. [25/03/24] Linguaggi di programmazione
+5. [26/03/24] Linguaggi di programmazione
    * slide: TBA
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/03.pdf)
    <hr />
