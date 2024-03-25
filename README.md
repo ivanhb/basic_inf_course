@@ -44,7 +44,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    <hr />
 
 5. [26/03/24] Linguaggi di programmazione
-   * slide: TBA
+   * slide: [PDF](slides/04_prog_languages.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/03.pdf)
    <hr />
 
