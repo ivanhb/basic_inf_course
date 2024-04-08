@@ -49,7 +49,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    <hr />
 
 6. [08/04/24] Cosa succede quando si clicca un link: Il World Wide Web
-   * slide: TBA
+   * slide: [PDF](slides/05_web_www.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/04.pdf)
    <hr />
 
