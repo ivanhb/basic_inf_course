@@ -54,7 +54,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    <hr />
 
 7. [09/04/24] Cosa succede quando si clicca un link: I protocolli di comunicazione
-   * slide: TBA
+   * slide: [PDF](slides/06_web_protocols.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/05.pdf)
    <hr />
 
