@@ -59,7 +59,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    <hr />
 
 8. [10/04/24] Cosa succede quando si clicca un link: Internet
-   * slide: TBA
+   * slide: [PDF](slides/07_web_Internet.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/06.pdf)
    <hr />
 
