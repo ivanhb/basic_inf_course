@@ -64,7 +64,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    <hr />
 
 9. [15/04/24] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
-   * slide: TBA
+   * slide: [PDF](slides/08_web_tcp.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/07.pdf)
    <hr />
 
