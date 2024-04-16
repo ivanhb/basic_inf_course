@@ -69,7 +69,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
    <hr />
 
 10. [16/04/24] Cosa succede quando si clicca un link: Le pagine web
-    * slide: TBA
+    * slide: [PDF](slides/09_web_pages.pdf)
     * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/08.pdf)
     <hr />
 
