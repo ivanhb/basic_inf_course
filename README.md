@@ -74,6 +74,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
     <hr />
 
 11. [17/04/24] Wrap-up
+    * slide: [PDF](slides/10_wrapup.pdf)
     <hr />
 
 
