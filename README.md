@@ -77,6 +77,9 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
     * slide: [PDF](slides/10_wrapup.pdf)
     <hr />
 
+12. [09/05/24] Laboratorio
+    * slide: [PDF](slides/Laboratorio_Informatica_di_base.pdf)
+    <hr />
 
 ### Calendario
 
