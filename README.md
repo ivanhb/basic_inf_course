@@ -12,7 +12,7 @@
 **Campus:** Bologna  
 **Corso:** Laurea in Lettere (cod. 8850)  
 
-Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al corso [INFORMATICA DI BASE (anno: 2023/2024)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/464222) della Laurea in [Lettere](https://corsi.unibo.it/laurea/lettere) dell'Università di Bologna.
+Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al corso [INFORMATICA DI BASE (anno: 2024/2025)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/464222) della Laurea in [Lettere](https://corsi.unibo.it/laurea/lettere) dell'Università di Bologna.
 
 ---
 
