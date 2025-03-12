@@ -1,6 +1,6 @@
 #### [https://github.com/ivanhb/basic_inf_course](https://github.com/ivanhb/basic_inf_course)
 
-#### [Anno precedente (2023/2024)](https://github.com/ivanhb/basic_inf_course/2023_2024)
+#### [Anno precedente (2023/2024)](2023_2024)
 
 # 75969 - INFORMATICA DI BASE (1) (M-Z)
 ## Anno Accademico 2024/2025
@@ -8,7 +8,7 @@
 **Docente:** Ivan Heibi  
 **Crediti formativi:** 6  
 **Lingua di insegnamento:** Italiano  
-**Modalità didattica:** Convenzionale - Lezioni in presenza
+**Modalità didattica:** Convenzionale - Lezioni in presenza  
 **Campus:** Bologna  
 **Corso:** Laurea in Lettere (cod. 8850)  
 
