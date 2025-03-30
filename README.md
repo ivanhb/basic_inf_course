@@ -21,8 +21,8 @@ Questo spazio contiene documenti e riferimenti a tutto il materiale relativo al 
 Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 <table>
-  <tr><th>Data</th><th>Orario</th><th>Luogo</th><th>Lezione</th><th>Slide</th><th>Capitolo</th></tr>
-<tr><td>31/3/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Introduzione al corso + Le tecnologie informatiche nelle scienze umane</td><td></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/09.pdf">PDF</a></td></tr>
+  <tr><th>Data</th><th>Orario</th><th>Luogo</th><th>Lezione</th><th>Slides</th><th>Capitolo</th></tr>
+<tr><td>31/3/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Introduzione al corso + Le tecnologie informatiche nelle scienze umane</td><td><a href="sildes/00_introduzione.pdf">PDF</a><br><a href="sildes/01_hum_tech.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/09.pdf">PDF</a></td></tr>
 <tr><td>1/4/2025</td><td>17:00-19:00</td><td>AULA 1 - Accesso via del Guasto 3</td><td>Computer, pensiero computazionale e strutture dati</td><td></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/01.pdf">PDF</a></td></tr>
 <tr><td>2/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Algoritmi e computabilità</td><td></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/02.pdf">PDF</a></td></tr>
 <tr><td>7/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Linguaggi di programmazione</td><td></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/03.pdf">PDF</a></td></tr>
