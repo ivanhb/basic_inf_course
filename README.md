@@ -31,5 +31,5 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
 <tr><td>14/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Cosa succede quando si clicca un link: Internet</td><td><a href="slides/07_web_Internet.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/06.pdf">PDF</a></td></tr>
 <tr><td>15/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td><td><a href="slides/08_web_tcp.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/07.pdf">PDF</a></td></tr>
 <tr><td>28/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Cosa succede quando si clicca un link: Le pagine web</td><td><a href="slides/09_web_pages.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/08.pdf">PDF</a></td></tr>
-<tr><td>29/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Wrap-up</td><td></td><td></td></tr>
+<tr><td>29/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Wrap-up</td><td><a href="slides/10_wrapup.pdf">PDF</a></td><td></td></tr>
 </table>
