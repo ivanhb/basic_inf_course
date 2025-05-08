@@ -32,5 +32,5 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
 <tr><td>15/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td><td><a href="slides/08_web_tcp.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/07.pdf">PDF</a></td></tr>
 <tr><td>28/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Cosa succede quando si clicca un link: Le pagine web</td><td><a href="slides/09_web_pages.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/08.pdf">PDF</a></td></tr>
 <tr><td>29/4/2025</td><td>15:00-17:00</td><td>Laboratorio 2, Via Zamboni 34</td><td>Wrap-up</td><td><a href="slides/10_wrapup.pdf">PDF</a></td><td></td></tr>
-<tr><td>07/5/2025</td><td>17:00-19:00</td><td>Online(Teams)</td><td>Tutoring Session</td><td><a href="slides/11_tutor_session.pdf">PDF</a></td><td></td></tr>
+<tr><td>07/5/2025</td><td>17:00-19:00</td><td>Online(Teams)</td><td>Lezione di Laboratorio</td><td><a href="slides/11_tutor_session.pdf">PDF</a></td><td></td></tr>
 </table>
