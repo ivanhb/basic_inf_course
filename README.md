@@ -23,7 +23,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
 <table>
   <tbody>
     <tr><th>#</th><th>Data</th><th>Orario</th><th>Lezione</th><th>Slides</th><th>Capitolo</th></tr>
-    <tr><td>1</td><td>lunedì, 10 novembre 2025</td><td>17:00 - 19:00</td><td>Introduzione al corso</td><td>...</td><td>...</td></tr>
+    <tr><td>1</td><td>lunedì, 10 novembre 2025</td><td>17:00 - 19:00</td><td>Introduzione al corso</td><td><a href="slides/00_introduzione.pdf">PDF</a></td><td>_</td></tr>
     <tr><td>2</td><td>martedì, 11 novembre 2025</td><td>15:00 - 17:00</td><td>Le tecnologie informatiche nelle scienze umane</td><td>...</td><td><a href="https://basic-inf.github.io/2024-2025/chapters/09.pdf">PDF</a></td></tr>
     <tr><td>3</td><td>giovedì, 13 novembre 2025</td><td>17:00 - 19:00</td><td>Computer, pensiero computazionale e strutture dati</td><td>...</td><td><a href="https://basic-inf.github.io/2024-2025/chapters/01.pdf">PDF</a></td></tr>
     <tr><td>4</td><td>lunedì, 17 novembre 2025</td><td>17:00 - 19:00</td><td>Tutorial n.1</td><td>...</td><td>_</td></tr>
