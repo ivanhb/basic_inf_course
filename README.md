@@ -28,7 +28,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
     <tr style="background-color: #FEA6A6"><td>_</td><td><s>giovedì, 13 novembre 2025</s></td><td><s>17:00 - 19:00</s></td><td>_</td><td>_</td><td>_</td></tr>
     <tr><td>3</td><td>lunedì, 17 novembre 2025</td><td>17:00 - 19:00</td><td>Tutorial n.1</td><td><a href="slides/tutorial_1.pdf">PDF</a></td><td>_</td></tr>
     <tr><td>4</td><td>martedì, 18 novembre 2025</td><td>15:00 - 17:00</td><td>Computer, pensiero computazionale e strutture dati</td><td><a href="slides/02_comp_intro.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/01.pdf">PDF</a></td></tr>
-    <tr><td>5</td><td>giovedì, 20 novembre 2025</td><td>17:00 - 19:00</td><td>Algoritmi e computabilità</td><td>...</td><td><a href="https://basic-inf.github.io/2024-2025/chapters/02.pdf">PDF</a></td></tr>
+    <tr><td>5</td><td>giovedì, 20 novembre 2025</td><td>17:00 - 19:00</td><td>Algoritmi e computabilità</td><td><a href="slides/03_algorithms.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/02.pdf">PDF</a></td></tr>
     <tr><td>6</td><td>lunedì, 24 novembre 2025</td><td>17:00 - 19:00</td><td>Linguaggi di programmazione</td><td>...</td><td><a href="https://basic-inf.github.io/2024-2025/chapters/03.pdf">PDF</a></td></tr>
     <tr><td>7</td><td>martedì, 25 novembre 2025</td><td>15:00 - 17:00</td><td>Tutorial n.2</td><td>...</td><td>_</td></tr>
     <tr><td>8</td><td>giovedì, 27 novembre 2025</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td><td>...</td><td><a href="https://basic-inf.github.io/2024-2025/chapters/04.pdf">PDF</a></td></tr>
