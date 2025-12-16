@@ -37,7 +37,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
     <tr><td>11</td><td>giovedì, 4 dicembre 2025</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Internet</td><td><a href="slides/07_web_Internet.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/06.pdf">PDF</a></td></tr>
     <tr><td>12</td><td>giovedì, 11 dicembre 2025</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td><td><a href="slides/08_web_tcp.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/07.pdf">PDF</a></td></tr>
     <tr><td>13</td><td>lunedì, 15 dicembre 2025</td><td>17:00 - 19:00</td><td>Tutorial n.4</td><td><a href="slides/tutorial_4.pdf">PDF</a></td><td>_</td></tr>
-    <tr><td>14</td><td>martedì, 16 dicembre 2025</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td><td>...</td><td><a href="https://basic-inf.github.io/2024-2025/chapters/08.pdf">PDF</a></td></tr>
+    <tr><td>14</td><td>martedì, 16 dicembre 2025</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td><td><a href="slides/09_web_pages.pdf">PDF</a></td><td><a href="https://basic-inf.github.io/2024-2025/chapters/08.pdf">PDF</a></td></tr>
     <tr><td>15</td><td>giovedì, 18 dicembre 2025</td><td>17:00 - 19:00</td><td>Wrap-up</td><td>...</td><td>_</td></tr>
   </tbody>
 </table>
