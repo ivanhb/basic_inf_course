@@ -23,20 +23,20 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
 <table>
   <tbody>
     <tr><th>#</th><th>Data</th><th>Orario</th><th>Lezione</th><th>Slides</th><th>Capitolo</th></tr>
-    <tr><td>1</td><td>lunedì, 2 novembre 2026</td><td>17:00 - 19:00</td><td>Introduzione al corso</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>2</td><td>martedì, 3 novembre 2026</td><td>15:00 - 17:00</td><td>Le tecnologie informatiche nelle scienze umane</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>3</td><td>lunedì, 9 novembre 2026</td><td>17:00 - 19:00</td><td>Computer, pensiero computazionale e strutture dati</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>4</td><td>martedì, 10 novembre 2026</td><td>15:00 - 17:00</td><td>Algoritmi e computabilità</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>5</td><td>giovedì, 12 novembre 2026</td><td>17:00 - 19:00</td><td>Linguaggi di programmazione</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>6</td><td>lunedì, 16 novembre 2026</td><td>17:00 - 19:00</td><td>Tutorial n.1</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>7</td><td>martedì, 17 novembre 2026</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>8</td><td>giovedì, 19 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>9</td><td>lunedì, 23 novembre 2026</td><td>17:00 - 19:00</td><td>Tutorial n.2</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>10</td><td>martedì, 24 novembre 2026</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: Internet</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>11</td><td>giovedì, 26 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>12</td><td>lunedì, 30 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>13</td><td>martedì, 1 dicembre 2026</td><td>15:00 - 17:00</td><td>Tutorial n.3</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>14</td><td>giovedì, 3 dicembre 2026</td><td>17:00 - 19:00</td><td>Laboratorio</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>15</td><td>giovedì, 10 dicembre 2026</td><td>17:00 - 19:00</td><td>Wrap-up</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>1</td><td>martedì, 3 novembre 2026</td><td>15:00 - 17:00</td><td>Introduzione al corso</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>2</td><td>martedì, 10 novembre 2026</td><td>15:00 - 17:00</td><td>Le tecnologie informatiche nelle scienze umane</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>3</td><td>mercoledì, 11 novembre 2026</td><td>11:00 - 13:00</td><td>Computer, pensiero computazionale e strutture dati</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>4</td><td>giovedì, 12 novembre 2026</td><td>17:00 - 19:00</td><td>Algoritmi e computabilità</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>5</td><td>martedì, 17 novembre 2026</td><td>15:00 - 17:00</td><td>Linguaggi di programmazione</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>6</td><td>mercoledì, 18 novembre 2026</td><td>11:00 - 13:00</td><td>Tutorial n.1</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>7</td><td>giovedì, 19 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>8</td><td>martedì, 24 novembre 2026</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>9</td><td>mercoledì, 25 novembre 2026</td><td>11:00 - 13:00</td><td>Tutorial n.2</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>10</td><td>giovedì, 26 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Internet</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>11</td><td>martedì, 1 dicembre 2026</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>12</td><td>mercoledì, 2 dicembre 2026</td><td>11:00 - 13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>13</td><td>giovedì, 3 dicembre 2026</td><td>17:00 - 19:00</td><td>Tutorial n.3</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>14</td><td>mercoledì, 9 dicembre 2026</td><td>11:00 - 13:00</td><td><em>Laboratorio</em></td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>15</td><td>giovedì, 10 dicembre 2026</td><td>17:00 - 19:00</td><td><em>Wrap-up</em></td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
   </tbody>
 </table>
