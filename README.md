@@ -23,7 +23,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
 <table>
   <tbody>
     <tr><th>#</th><th>Data</th><th>Orario</th><th>Lezione</th><th>Slides</th><th>Capitolo</th></tr>
-    <tr><td>1</td><td>martedì, 3 novembre 2026</td><td>15:00 - 17:00</td><td>Introduzione al corso</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>1</td><td>martedì, 3 novembre 2026</td><td>15:00 - 17:00</td><td>Introduzione al corso</td><td><em><a href="slides/00_introduzione.pdf">PDF</a></em></td><td><em>–</em></td></tr>
     <tr><td>2</td><td>martedì, 10 novembre 2026</td><td>15:00 - 17:00</td><td>Le tecnologie informatiche nelle scienze umane</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
     <tr><td>3</td><td>mercoledì, 11 novembre 2026</td><td>11:00 - 13:00</td><td>Computer, pensiero computazionale e strutture dati</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
     <tr><td>4</td><td>giovedì, 12 novembre 2026</td><td>17:00 - 19:00</td><td>Algoritmi e computabilità</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
