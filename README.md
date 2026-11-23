@@ -28,8 +28,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
     <tr><td>3</td><td>mercoledì, 11 novembre 2026</td><td>11:00 - 13:00</td><td>Computer, pensiero computazionale e strutture dati</td><td><em><a href="slides/02_comp_intro.pdf">PDF</a></em></td><td><em><a href="https://basic-inf.github.io/2024-2025/chapters/01.pdf">PDF</a></em></td></tr>
     <tr><td>4</td><td>giovedì, 12 novembre 2026</td><td>17:00 - 19:00</td><td>Algoritmi e computabilità</td><td><em><a href="slides/03_algorithms.pdf">PDF</a></em></td><td><em><a href="https://basic-inf.github.io/2024-2025/chapters/02.pdf">PDF</a></em></td></tr>
     <tr><td>5</td><td>martedì, 17 novembre 2026</td><td>15:00 - 17:00</td><td>Linguaggi di programmazione</td><td><em><a href="slides/04_prog_languages.pdf">PDF</a></em></td><td><em><a href="https://basic-inf.github.io/2024-2025/chapters/03.pdf">PDF</a></em></td></tr>
-    <tr><td>6</td><td>mercoledì, 18 novembre 2026</td><td>11:00 - 13:00</td><td>Tutorial n.1</td><td><em><a href="slides/06_tutorial1.pdf">PDF</a></em></td><td><em>-</em></td></tr>
-    <tr><td>7</td><td>giovedì, 19 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td><td><em><a href="slides/05_web_www.pdf">PDF</a></em></td><td><em><a href="https://basic-inf.github.io/2024-2025/chapters/04.pdf">PDF</a></em></td></tr>
+    <tr><td>6</td><td>mercoledì, 18 novembre 2026</td><td>11:00 - 13:00</td><td>Tutorial n.1</td><td><em><a href="slides/05_tutorial1.pdf">PDF</a></em></td><td><em>-</em></td></tr>
+    <tr><td>7</td><td>giovedì, 19 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td><td><em><a href="slides/06_web_www.pdf">PDF</a></em></td><td><em><a href="https://basic-inf.github.io/2024-2025/chapters/04.pdf">PDF</a></em></td></tr>
     <tr><td>8</td><td>martedì, 24 novembre 2026</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
     <tr><td>9</td><td>mercoledì, 25 novembre 2026</td><td>11:00 - 13:00</td><td>Tutorial n.2</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
     <tr><td>10</td><td>giovedì, 26 novembre 2026</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Internet</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
@@ -37,6 +37,6 @@ Il libro del corso è interamente a disposizione sulla piattaforma [Virtuale](ht
     <tr><td>12</td><td>mercoledì, 2 dicembre 2026</td><td>11:00 - 13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
     <tr><td>13</td><td>giovedì, 3 dicembre 2026</td><td>17:00 - 19:00</td><td>Tutorial n.3</td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
     <tr><td>14</td><td>mercoledì, 9 dicembre 2026</td><td>11:00 - 13:00</td><td><em>Laboratorio</em></td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
-    <tr><td>15</td><td>giovedì, 10 dicembre 2026</td><td>17:00 - 19:00</td><td><em>Wrap-up</em></td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
+    <tr><td>15</td><td><del>giovedì, 10</del> martedì, 15 dicembre 2026</td><td>17:00 - 19:00</td><td><em>Wrap-up</em></td><td><em>Disponibile prossimamente</em></td><td><em>Disponibile prossimamente</em></td></tr>
   </tbody>
 </table>
